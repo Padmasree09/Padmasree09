@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padmasree09" alt="padmasree09" /></a> </p>
 
-- 🔭 I’m currently working on **A real time project**
+- 🔭 I’m currently working on ** Data Structures and Algorithms **
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Neural Network Models and Transformers for a project.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about ** Software technologies**
 
 - 📫 How to reach me **padmasree.91004@gmail.com**
 
