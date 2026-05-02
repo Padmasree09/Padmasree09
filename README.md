@@ -31,3 +31,17 @@
 ---
 
 ### Skills
+
+**Languages** &nbsp; Java · Python · JavaScript
+
+**Frameworks** &nbsp; React · Node.js · FastAPI · Flask · Angular · PyTorch · TensorFlow
+
+**AI & Automation** &nbsp; llama.cpp · RAG · Cursor AI · Playwright · Phi-3 · prompt engineering
+
+**Databases & Cloud** &nbsp; MySQL · MongoDB · SQL Server · Oracle DB · Qdrant · AWS · Docker
+
+**Tools** &nbsp; Git · JIRA · VS Code · Atlassian MCP · Oracle MCP · GitHub MCP · Tree-sitter
+
+---
+
+*Open to roles in AI engineering, backend systems, and developer tooling.*
