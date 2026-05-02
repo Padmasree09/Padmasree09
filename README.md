@@ -20,7 +20,7 @@
 
 ---
 
-### Internship @ PowerSchool (Jul 2024 – Present)
+### Internship @ PowerSchool (Jul 2025 – Present)
 
 | Project | What I built |
 |---|---|
